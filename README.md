@@ -54,6 +54,10 @@ Segundo párrafo
 Tercer párrafo  
 
 
+A continuación, vamos a poner una frase célebre de un personaje famoso:
+
+> Es el vecino el que quiere al alcalde, y es el alcalde el que quiere que sean los vecinos el alcalde.
+
 
 ![Texto alternativo](https://img.freepik.com/vector-gratis/vector-degradado-logotipo-colorido-pajaro_343694-1365.jpg?semt=ais_user_personalization&w=740&q=80)
 
